@@ -1,0 +1,14 @@
+.chat-message{
+    display:grid;
+    grid-template-columns: 1fr 11fr;
+    max-width: calc(min(100vw,740px));
+    margin: auto;
+    padding:1rem 0.5rem;
+}
+
+.author-logo{
+    width:2rem;
+    aspect-ratio: 1/1;
+    margin:0;
+    padding-left: 0.5rem;
+}

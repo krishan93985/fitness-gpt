@@ -1,0 +1,14 @@
+.self-writing-text {
+    overflow: hidden;
+    color:#d1d5db
+}
+
+#caret{
+    border: 0;
+    padding: 0;
+    outline: none;
+    height:1.4rem;
+    background-color: #f2f2f2;
+    display: inline-block;
+    font-family: monospace;
+}

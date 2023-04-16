@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Fitness GPT",
+  "name": "This bot assists you with your fitness-related queries!",
   "icons": [
     {
       "src": "favicon.ico",
